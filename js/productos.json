@@ -1,0 +1,182 @@
+[
+    {
+        "id": "bolso-01",
+        "titulo": "BOLSO TOTE PEQUEÑO MEDUSA '95",
+        "imagen": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw798badfc/original/90_1013169-1A10795_1W00P_22_Medusa~95~Small~Tote~Bag-Totes-Versace-online-store_0_0.jpg?sw=850&q=85&strip=true",
+        "categoria": {
+            "nombre": "Bolsos",
+            "id": "bolsos"
+        },
+        "precio": 100000
+    },
+    {
+        "id": "bolso-02",
+        "titulo": "MINIBOLSO MEDUSA '95",
+        "imagen": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwfaec4505/original/90_1015061-1A08724_1VD6P_20_Croc~EffectMedusa95MiniBag-Clutch~Bags-Versace-online-store_0_3.jpg?sw=850&q=85&strip=true",
+        "categoria": {
+            "nombre": "Bolsos",
+            "id": "bolsos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "bolso-03",
+        "titulo": "BOLSO MEDUSA '95 CON EFECTO COCODRILO",
+        "imagen": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw59c49e1f/original/90_1013823-1A11163_1R70V_22_Croc~Effect~Medusa~95~Handbag-Top~Handle-Versace-online-store_0_0.jpg?sw=850&q=85&strip=true",
+        "categoria": {
+            "nombre": "Bolsos",
+            "id": "bolsos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "llavero-04",
+        "titulo": "LLAVERO LA MEDUSA",
+        "imagen": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw445f6145/original/90_DPY8536-DPCME4_1B00V_22_La~Medusa~Key~Chain--Versace-online-store_0_0.jpg?sw=850&q=85&strip=true",
+        "categoria": {
+            "nombre": "Llaveros",
+            "id": "llaveros"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "llavero-05",
+        "titulo": "LLAVERO MEDUSA BIGGIE",
+        "imagen": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwd2452aad/original/90_1012258-1A08836_4P111_22_Medusa~Biggie~Key~Ring-Keyrings-Versace-online-store_0_0.jpg?sw=850&q=85&strip=true",
+        "categoria": {
+            "nombre": "Llaveros",
+            "id": "llaveros"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "llavero-06",
+        "titulo": "LLAVERO MEDUSA BIGGIE",
+        "imagen": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw0727aee5/original/90_1012258-1A08836_4P101_22_Medusa~Biggie~Key~Ring-Keyrings-Versace-online-store_0_0.jpg?sw=850&q=85&strip=true",
+        "categoria": {
+            "nombre": "Llaveros",
+            "id": "llaveros"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cinturon-02",
+        "titulo": "CINTURÓN DE PIEL MEDUSA '95",
+        "imagen": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw82b0fa0c/original/90_1015067-DV3T_1B00V_20_Medusa95LeatherBelt-Accessories-Versace-online-store_0_2.jpg?sw=850&q=85&strip=true",
+        "categoria": {
+            "nombre": "Cinturon",
+            "id": "cinturon"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cinturon-03",
+        "titulo": "CINTURÓN DE PIEL SAFETY PIN",
+        "imagen": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw05a9404a/original/90_1005786-DV3T_1B00P_22_SafetyPinLeatherBelt--Versace-online-store_1_1.jpg?sw=1200&q=85&strip=true",
+        "categoria": {
+            "nombre": "Cinturon",
+            "id": "cinturon"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cinturon-03",
+        "titulo": "CINTURÓN ANCHO MEDUSA '95",
+        "imagen": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwcec80af4/original/90_1010073-1A07131_1B00P_20_La~Medusa~Wide~Belt--Versace-online-store_0_0.jpg?sw=850&q=85&strip=true",
+        "categoria": {
+            "nombre": "Cinturon",
+            "id": "cinturon"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "regalos-05",
+        "titulo": "ANILLO CON CORAZÓN",
+        "imagen": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dweb1c2ac9/original/90_1014311-1A00620_3J000_22_HeartRing-Fashion~Jewelry-Versace-online-store_0_2.jpg?sw=850&q=85&strip=true",
+        "categoria": {
+            "nombre": "Regalos",
+            "id": "regalos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "regalos-06",
+        "titulo": "PENDIENTES DE CORAZÓN",
+        "imagen": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw30ad6f52/original/90_1014310-1A00620_3J000_22_HeartEarrings-Fashion~Jewelry-Versace-online-store_0_2.jpg?sw=850&q=85&strip=true",
+        "categoria": {
+            "nombre": "Regalos",
+            "id": "regalos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "regalos-07",
+        "titulo": "PULSERA MEDUSA",
+        "imagen": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw224c78dd/original/90_1014253-1A00620_3J000_20_Medusa~Bracelet-Bracelets-Versace-online-store_0_0.jpg?sw=850&q=85&strip=true",
+        "categoria": {
+            "nombre": "Regalos",
+            "id": "regalos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "regalos-08",
+        "titulo": "COLLAR CON MOSAICO DE MEDUSA",
+        "imagen": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw83566687/original/90_1015195-1A00620_3J030_24_MedusaMosaicNecklace-Necklaces~~Chains-Versace-online-store_0_2.jpg?sw=1200&q=85&strip=true",
+        "categoria": {
+            "nombre": "Regalos",
+            "id": "regalos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "regalos-08",
+        "titulo": "ANILLO MEDUSA CON PERLA",
+        "imagen": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwabb9354b/original/90_1014932-1A05105_4JGY0_22_MedusaPearlRing-Fashion~Jewelry-Versace-online-store_0_2.jpg?sw=850&q=85&strip=true",
+        "categoria": {
+            "nombre": "Regalos",
+            "id": "regalos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "regalos-08",
+        "titulo": "ANILLO MEDUSA CON PERLA",
+        "imagen": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwabb9354b/original/90_1014932-1A05105_4JGY0_22_MedusaPearlRing-Fashion~Jewelry-Versace-online-store_0_2.jpg?sw=850&q=85&strip=true",
+        "categoria": {
+            "nombre": "Regalos",
+            "id": "regalos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "regalos-08",
+        "titulo": "ANILLO MEDUSA CON PERLA",
+        "imagen": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwabb9354b/original/90_1014932-1A05105_4JGY0_22_MedusaPearlRing-Fashion~Jewelry-Versace-online-store_0_2.jpg?sw=850&q=85&strip=true",
+        "categoria": {
+            "nombre": "Regalos",
+            "id": "regalos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "regalos-08",
+        "titulo": "ANILLO MEDUSA CON PERLA",
+        "imagen": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwabb9354b/original/90_1014932-1A05105_4JGY0_22_MedusaPearlRing-Fashion~Jewelry-Versace-online-store_0_2.jpg?sw=850&q=85&strip=true",
+        "categoria": {
+            "nombre": "Regalos",
+            "id": "regalos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "regalos-08",
+        "titulo": "ANILLO MEDUSA CON PERLA",
+        "imagen": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwabb9354b/original/90_1014932-1A05105_4JGY0_22_MedusaPearlRing-Fashion~Jewelry-Versace-online-store_0_2.jpg?sw=850&q=85&strip=true",
+        "categoria": {
+            "nombre": "Regalos",
+            "id": "regalos"
+        },
+        "precio": 1000
+    }
+]
