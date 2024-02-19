@@ -9,6 +9,7 @@ fetch("./js/productos.json")
 
 
 const contenedorProductos = document.querySelector("#contenedor-productos");
+const BUSCADOR = document.querySelector("#BUSCADOR");///
 const botonesCategorias = document.querySelectorAll(".boton-categoria");
 const tituloPrincipal = document.querySelector("#titulo-principal");
 let botonesAgregar = document.querySelectorAll(".producto-agregar");
@@ -62,6 +63,7 @@ botonesCategorias.forEach(boton => {
 
     })
 });
+
 
 function actualizarBotonesAgregar() {
     botonesAgregar = document.querySelectorAll(".producto-agregar");
@@ -124,3 +126,35 @@ function actualizarNumerito() {
     let nuevoNumerito = productosEnCarrito.reduce((acc, producto) => acc + producto.cantidad, 0);
     numerito.innerText = nuevoNumerito;
 }
+//
+const search = document.getElementById("form");
+
+//------------------------------------------------
+search.addEventListener('keyup', (e)=>{
+   
+     let buscar = search[0].value.toLowerCase();
+
+      let resultadoBuscador = productos.filter(inputUsu => inputUsu.titulo.toLowerCase().includes(buscar));
+      console.log(resultadoBuscador)
+     // return
+     contenedorProductos.innerHTML = "";
+
+     resultadoBuscador.forEach(producto => {
+ 
+         const div = document.createElement("div");
+         div.classList.add("producto");
+         div.innerHTML = `
+             <img class="producto-imagen" src="${producto.imagen}" alt="${producto.titulo}">
+             <div class="producto-detalles">
+                 <h3 class="producto-titulo">${producto.titulo}</h3>
+                 <p class="producto-precio">$${producto.precio}</p>
+                 <button class="producto-agregar" id="${producto.id}">Agregar</button>
+             </div>
+         `;
+ 
+         contenedorProductos.append(div);
+     })
+
+     
+     actualizarBotonesAgregar();    
+});

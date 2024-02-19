@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CarpiShop</title>
+    <title>CaroShop</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
     <link rel="stylesheet" href="./css/main.css">
@@ -14,21 +14,44 @@
     <div class="wrapper">
         <header class="header-mobile">
             <h1 class="logo">Caro Shop</h1>
+            <!-- <p>    <form action="./" method="get" class="d-flex" role="search" id="form">
+                <input  type="search" placeholder="BUSCAR" aria-label="Search">
+            </form></p> -->
+            
             <button class="open-menu" id="open-menu">
                 <i class="bi bi-list"></i>
             </button>
         </header>
+
         <aside>
+           
             <button class="close-menu" id="close-menu">
                 <i class="bi bi-x"></i>
             </button>
+            
+          
             <header>
                 <h1 class="logo">Caro Shop</h1>
+              
             </header>
+            <!-- <form action="./" method="get" class="d-flex" role="search" id="form">
+                <input  type="search" placeholder="BUSCAR" aria-label="Search">
+            </form> -->
             <nav>
+                
                 <ul class="menu">
+                    
+                    <li>  
+                            <form action="./" method="get" class="" role="search" id="form">
+                              <input  type="search" placeholder="buscar productos" aria-label="Search" >
+                            </form>
+                    </li>
+
                     <li>
-                        <button id="todos" class="boton-menu boton-categoria active"><i class="bi bi-hand-index-thumb-fill"></i> Todos los productos</button>
+                        <button id="todos" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb-fill"></i> Todos los productos</button>
+                    </li>
+                    <li>
+                        
                     </li>
                     <li>
                         <button id="bolsos" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Bolsos</button>
@@ -43,12 +66,23 @@
                         <button id="regalos" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Regalos</button>
                     </li>
                     <li>
+                       <!--  <form action="./" method="get" class="d-flex" role="search" id="form">
+                            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                            <button class="btn btn-outline-success" type="submit">Search</button>
+                        </form> -->
+                       
+                    </li>
+                    <li>
                         <a class="boton-menu boton-carrito" href="./carrito.html">
                             <i class="bi bi-cart-fill"></i> Carrito <span id="numerito" class="numerito">0</span>
                         </a>
                     </li>
+                    
                 </ul>
+               
+                
             </nav>
+           
             <footer>
                 <p class="texto-footer">© 2024 minishops by TokeWeb</p>
             </footer>
@@ -59,6 +93,12 @@
                 <!-- Esto se va a rellenar con JS -->
             </div>
         </main>
+        <section>
+            <div id="BUSCADOR" class="contenedor-productos">
+                <!-- Esto se va a rellenar con JS -->
+            </div>
+
+        </section>
     </div>
     
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
